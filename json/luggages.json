@@ -1,0 +1,216 @@
+[
+  {
+    "id" : 1,
+    "name":"American Tourister",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "type": "wood",
+    "price": 90,
+    "images": [
+      {
+        "name": "luggage1.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "name":"Athalon",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "type": "wood",
+    "price": 85,
+    "images": [
+      {
+        "name": "luggage2.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ],
+    "soldOut":true
+  },
+  {
+    "id" : 3,
+    "name":"Delsey",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 105,
+    "images": [
+      {
+        "name": "luggage3.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 4,
+    "name":"Pierre Cardin",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 162,
+    "images": [
+      {
+        "name": "luggage4.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 5,
+    "name":"TravelPro",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 100,
+    "images": [
+      {
+        "name": "luggage5.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name":"Samsonite",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 89,
+    "available": true,
+    "images": [
+      {
+        "name": "luggage6.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name":"Rockland",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 93,
+    "available": true,
+    "images": [
+      {
+        "name": "luggage7.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name":"Briggs & Riley",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 99,
+    "available": true,
+    "images": [
+      {
+        "name": "luggage8.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name":"WallyBags",
+    "description":"Maecenas mattis posuere sodales. Fusce imperdiet laoreet pellentesque. Phasellus pretium mollis justo, ac faucibus risus pretium eu. Morbi consequat est ut urna tempor, sit amet facilisis sapien ornare. Nam feugiat lectus non sem ornare, eu pellentesque diam efficitur. Morbi imperdiet dolor non quam mollis, consequat aliquam turpis porta.",		"type": "wordpress",
+    "price": 104,
+    "available": true,
+    "images": [
+      {
+        "name": "luggage9.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  }
+]

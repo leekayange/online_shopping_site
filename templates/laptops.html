@@ -1,0 +1,12 @@
+<div class="container">
+   <div class="row">
+     <div ng-repeat="laptop in laptops">
+       <div class="col-md-4">
+          <img src="img/laptops/{{laptop.images[0].name}}">
+          <h4><p>{{laptop.price | currency}}</p></h4>
+          <a type="button" href="#/laptop/{{laptop.id}}" class="btn btn-primary">Details</a>
+          <br><br>
+       </div>
+     </div>
+   </div>
+</div><!-- /.container -->

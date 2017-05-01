@@ -1,0 +1,216 @@
+[
+  {
+    "id" : 1,
+    "name":"Apple",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "type": "wood",
+    "price": 781,
+    "images": [
+      {
+        "name": "laptop1.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "name":"Asus",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "type": "wood",
+    "price": 891,
+    "images": [
+      {
+        "name": "laptop2.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ],
+    "soldOut":true
+  },
+  {
+    "id" : 3,
+    "name":"Dell",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 361,
+    "images": [
+      {
+        "name": "laptop3.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 4,
+    "name":"Hewlett-Packard",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 452,
+    "images": [
+      {
+        "name": "laptop4.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 5,
+    "name":"Lenovo",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 210,
+    "images": [
+      {
+        "name": "laptop5.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name":"Acer",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 321,
+    "available": true,
+    "images": [
+      {
+        "name": "laptop6.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name":"Microsoft",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 145,
+    "available": true,
+    "images": [
+      {
+        "name": "laptop7.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name":"Samsung",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 241,
+    "available": true,
+    "images": [
+      {
+        "name": "laptop8.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name":"Razer",
+    "description":"Nunc facilisis libero eu nibh tincidunt, ac aliquam lorem eleifend. Integer sit amet felis aliquet, placerat ligula euismod, sollicitudin turpis. Mauris tincidunt varius massa ultrices tempus. Suspendisse tincidunt eleifend sem consectetur ornare. Suspendisse potenti. Etiam mattis fermentum mauris vel aliquet. In at justo venenatis, fringilla magna id, posuere ligula.",		"type": "wordpress",
+    "price": 258,
+    "available": true,
+    "images": [
+      {
+        "name": "laptop9.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  }
+]

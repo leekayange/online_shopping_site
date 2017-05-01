@@ -1,0 +1,216 @@
+[
+  {
+    "id" : 1,
+    "name":"Baker's rack",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "type": "wood",
+    "price": 59.99,
+    "images": [
+      {
+        "name": "furniture1.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 2,
+    "name":"Bookcase",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "type": "wood",
+    "price": 89.99,
+    "images": [
+      {
+        "name": "furniture2.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ],
+    "soldOut":true
+  },
+  {
+    "id" : 3,
+    "name":"Chest of drawers or dresser",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 12.99,
+    "images": [
+      {
+        "name": "furniture3.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 4,
+    "name":"Cabinetry",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 72.99,
+    "images": [
+      {
+        "name": "furniture4.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id" : 5,
+    "name":"Hatstand",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 79.99,
+    "images": [
+      {
+        "name": "furniture5.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "name":"Coat rack",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 85.99,
+    "available": true,
+    "images": [
+      {
+        "name": "furniture6.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "name":"Mattress",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 15.99,
+    "available": true,
+    "images": [
+      {
+        "name": "furniture7.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "name":"Hammock",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 56.99,
+    "available": true,
+    "images": [
+      {
+        "name": "furniture8.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "name":"Headboard",
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas dui odio, bibendum et varius at, feugiat non justo. Aenean sit amet imperdiet est. Aenean efficitur neque convallis, vehicula leo sed, hendrerit neque. Vivamus luctus porta mauris, non rhoncus urna aliquam ac. Vestibulum euismod, odio in condimentum varius, eros erat imperdiet ex, eget fermentum massa orci euismod lorem. Duis risus ligula, ultrices in maximus ac, facilisis nec mi.",		"type": "wordpress",
+    "price": 85.99,
+    "available": true,
+    "images": [
+      {
+        "name": "furniture9.jpg"
+      },
+      {
+        "name": "semi1.jpg"
+      },
+      {
+        "name": "semi2.jpg"
+      },
+      {
+        "name": "semi3.jpg"
+      },
+      {
+        "name": "semi4.jpg"
+      }
+    ]
+  }
+]
